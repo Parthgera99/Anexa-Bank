@@ -29,6 +29,7 @@ span{
     padding: 1vw;
     width: fit-content;
     border-radius: 1vw;
+    cursor: pointer;
     margin-left: 7vw;
     margin-top: 2vw;
 }
