@@ -1,0 +1,177 @@
+.MainDiv{
+    display: flex;
+    flex-direction: row;
+}
+.rightSide{
+    margin-left: 15vw;
+    margin-right: 14vw;
+    margin-top: 4vw;
+    font-size: 1.1em;
+}
+.leftSide{
+    width: 120%;
+}
+.whiteText{
+    color: white;
+    margin-top: 3vw;
+    margin-left: 7vw;
+    font-size: 3em;
+}
+span{
+    color: #6BD45F;
+}
+#para1{
+    color: white;
+}
+.button{
+    background-color: #6BD45F;
+    color: black;
+    padding: 1vw;
+    width: fit-content;
+    border-radius: 1vw;
+    margin-left: 7vw;
+    margin-top: 2vw;
+}
+.tinyText{
+    color: white;
+}
+.divOfthreeDivs{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3vw;
+    margin-left: -3vw;
+    width: 130%;
+}
+.threeDivs{
+    margin-right: 2vw;
+    width: 200%;
+}
+.tinyText{
+    font-size: 1vw;
+    text-align: center;
+}
+.tinyPics{
+    text-align: center;
+    width: 90%;
+}
+.whiteText2{
+    color: white;
+    margin-top: -20vw;
+    margin-left: 50vw;
+    font-size: 3.9em;
+    text-align: right;
+    margin-right: 10vw;
+}
+.whiteText3{
+    color: white;
+    font-size: 4em;
+    margin-top: 10vw;
+    margin-left: 7vw;
+}
+#firstImage{
+    margin-top: -18vw;
+    width: 100%;
+}
+.para2{
+    margin-left: 7vw;
+    color: white;
+    margin-top: -1.5vw;
+    font-size: 2em;
+}
+#secondImage{
+    width: 35%;
+    margin-top: -25vw;
+}
+#thirdImage{
+    margin-left: 60vw;
+    margin-top: -20vw;
+
+}
+#Frame3{
+    margin-top: 10vw;
+    width: 40%;
+    margin-top: 10vw;
+    margin-left: -5vw;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+#fifth{
+    margin: 3.5vw;
+    width: 26%;
+}
+#sixth{
+    width: 26%;
+    margin: 3.5vw;
+}
+#seventh{
+    margin: 3.5vw;
+    width: 26%;
+}
+#ten{
+    width: 40%;
+    margin-left: 5vw;
+}
+#eight{
+    margin-left: 5vw;
+    margin-top: -15vw;
+}
+#nine{
+    margin-left: 16%;
+    width: 65%;
+    margin-top: -2vw;
+}
+#eleven{
+    width: 100%;
+    margin-top: -10vw;
+}
+#Frame{
+    width: 50%;
+    margin-top: 8vw;
+}
+.mainDiv4{
+    display: flex;
+    flex-direction: row;
+}
+.underDiv4{
+    margin-top: 7vw;
+    margin-left: 8vw;
+}
+.heading10{
+    color: white;
+    font-size: 5em;
+}
+#Frame7{
+    width: 50%;
+}
+#Frame10{
+    margin-top: 7vw;
+    margin-left: 8vw;
+}
+.underDiv5{
+    margin-top: 7vw;
+    margin-left: 8vw;
+    width: 42%;
+}
+#Frame9Last{
+    width: 100%;
+    margin-top: 5vw;
+}
+.lastDiv{
+    display: flex;
+    flex-direction: row;
+    font-size: 1.3em;
+    margin-bottom: 2vw;
+}
+#MainHeading{
+    color: white;
+    margin-left: 3vw;
+}
+#MainLogo2{
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 5vw;
+    margin-right: 0.7vw;
+}
