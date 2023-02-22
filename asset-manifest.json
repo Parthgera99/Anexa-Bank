@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Anexa-Bank/static/css/main.5f6f1486.css",
+    "main.css": "/Anexa-Bank/static/css/main.bf982160.css",
     "main.js": "/Anexa-Bank/static/js/main.a1badeb5.js",
     "static/js/787.71e672d5.chunk.js": "/Anexa-Bank/static/js/787.71e672d5.chunk.js",
     "static/media/secondImage.webp": "/Anexa-Bank/static/media/secondImage.0faa994bf06ab316f339.webp",
@@ -21,12 +21,12 @@
     "static/media/Frame8.webp": "/Anexa-Bank/static/media/Frame8.5bbb4040dcd9a4345927.webp",
     "static/media/thirdImage.webp": "/Anexa-Bank/static/media/thirdImage.4ddbf38a26c4d7102ff2.webp",
     "index.html": "/Anexa-Bank/index.html",
-    "main.5f6f1486.css.map": "/Anexa-Bank/static/css/main.5f6f1486.css.map",
+    "main.bf982160.css.map": "/Anexa-Bank/static/css/main.bf982160.css.map",
     "main.a1badeb5.js.map": "/Anexa-Bank/static/js/main.a1badeb5.js.map",
     "787.71e672d5.chunk.js.map": "/Anexa-Bank/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f6f1486.css",
+    "static/css/main.bf982160.css",
     "static/js/main.a1badeb5.js"
   ]
 }
